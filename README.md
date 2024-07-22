@@ -2,7 +2,7 @@
 
 This project offers a user-friendly interface to ask questions about the content of uploaded PDFs. It leverages Google Generative AI (GenAI) and Langchain libraries to achieve this functionality.
 
-# Features:
+## Features:
 
 -Extracts text from uploaded PDFs.
 -Chunks the extracted text for efficient processing.
