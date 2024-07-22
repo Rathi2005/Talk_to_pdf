@@ -9,7 +9,7 @@ This project offers a user-friendly interface to ask questions about the content
 -Creates a vector store using GenAI embeddings for document retrieval.
 -Implements a chatbot interface powered by GenAI to answer user questions based on the PDF content.
 
-# Requirements:
+## Requirements:
 
 Python 3.x
 Streamlit (pip install streamlit)
@@ -19,7 +19,7 @@ langchain-community (pip install langchain-community)
 PyPDF2 (pip install PyPDF2)
 dotenv (pip install python-dotenv)
 
-# Setup:
+## Setup:
 
 1) Clone this repository.
 
@@ -29,7 +29,7 @@ dotenv (pip install python-dotenv)
 
 4) GOOGLE_API_KEY: Your Google Cloud project's API key with access to GenAI services.
    
-# Usage:
+## Usage:
 
 Run the application using streamlit run main.py.
 Upload your PDF documents in the Streamlit sidebar.
